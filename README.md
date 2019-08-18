@@ -6,7 +6,7 @@ This CLI tool provides the customer IDs of nearby customers.
 # Installation
 ```sh
 # clone repository
-git clone www.github.com/williamreetz/nearby-customers
+git clone git@github.com:williamreetz/nearby-customers.git
 # install dependencies
 npm install
 # compile typescript files
