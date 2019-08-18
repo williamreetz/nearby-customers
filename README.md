@@ -18,12 +18,12 @@ npm link
 # How to use
 Get all ids of costomers in a radius of 100km
 ```
-nearby-customer -f path/to/customers.txt
+nearby-customers -f path/to/customers.txt
 ```
 
 Get all ids of costomers in a radius of 1000km from location lat:52.5186, lon:13.3760
 ```
-nearby-customer -f path/to/customers.txt -d 1000 -l 52.5186,13.3760
+nearby-customers -f path/to/customers.txt -d 1000 -l 52.5186,13.3760
 ```
 
 Options:
