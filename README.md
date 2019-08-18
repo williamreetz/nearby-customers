@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/williamreetz/nearby-customers.svg?branch=master)](https://travis-ci.com/williamreetz/nearby-customers)
+
 # Nearby Customers
 This CLI tool provides the customer IDs of nearby customers.
 
