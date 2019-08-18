@@ -1,0 +1,4 @@
+oa: 51730bbd-9bce-4d28-ae30-580e2ddd1be8, lat: 0, long:1, 
+id: 8a01cea8-b623-41ed-a6bb-977b113e6961, lat: lol, long:lol, 
+id: wooow, lati: 52.90932574, lon:0, 
+id: 25de3804-ca98-463b-88e0-17d3ae8418dc,, lat: 51.37904454, long:16.02052927, 

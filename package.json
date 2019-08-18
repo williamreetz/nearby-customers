@@ -1,0 +1,27 @@
+{
+  "name": "nearby-customers",
+  "version": "1.0.0",
+  "description": "This cli-tool helps you to find nearby customers.",
+  "main": "./bin/main.js",
+  "bin": {
+    "nearby-customers": "./bin/main.js"
+  },
+  "scripts": {
+    "build": "tsc -p .",
+    "test": "npx jest"
+  },
+  "author": "William Reetz",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.17",
+    "@types/node": "^12.7.2",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.0.2",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.3"
+  }
+}
