@@ -2,6 +2,13 @@
   "name": "nearby-customers",
   "version": "1.0.0",
   "description": "This cli-tool helps you to find nearby customers.",
+  "bugs": {
+      "url": "https://github.com/williamreetz/nearby-customers/issues"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/williamreetz/nearby-customers.git"
+  },  
   "main": "./bin/main.js",
   "bin": {
     "nearby-customers": "./bin/main.js"
